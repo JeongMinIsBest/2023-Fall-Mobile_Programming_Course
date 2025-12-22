@@ -8,9 +8,7 @@ This repository contains **practice materials and example code** from the **Mobi
 
 - All practice projects are provided in **compressed (ZIP) format**.
 - After downloading, please **extract the files** and open them using **Android Studio**.
-- Some supplementary materials include only:
-  - `MainActivity.java`
-  - `AndroidManifest.xml`
+- Some supplementary materials include only: `MainActivity.java`, `AndroidManifest.xml`
 - To use these materials:
   1. Create a new Android project in Android Studio
   2. Copy and paste the provided files into the project
