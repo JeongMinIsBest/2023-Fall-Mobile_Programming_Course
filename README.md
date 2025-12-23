@@ -1,4 +1,4 @@
-# [2023-Fall] Mobile Programming Course Study 📱
+# Mobile Programming Course Study (2023 Fall) 📱
 
 This repository contains **practice materials and example code** from the **Mobile Programming** course taken during the **Fall 2023 semester**.
 <br/>
