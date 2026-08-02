@@ -1,24 +1,22 @@
 # Mobile Programming Course Study (2023 Fall) 📱
-This repository contains **practice materials and example code** from the **Mobile Programming** course taken during the **Fall 2023 semester**.
+This repository contains Android projects and practice files created for a **Mobile Programming course** during the **Fall 2023 semester.**
 <br/>
 <br/>
 
 ## 🔭 Repository Information
-- All practice projects are provided in **compressed (ZIP) format**.
-- After downloading, please **extract the files** and open them using **Android Studio**.
-- Some supplementary materials include only: `MainActivity.java`, `AndroidManifest.xml`
+- Most projects are uploaded as ZIP files.
+- Download and extract the files before opening them in Android Studio.
+- Some folders contain only the following files: ```MainActivity.java```, ```AndroidManifest.xml```
   
-- To use these materials:
-  1. Create a new Android project in Android Studio
-  2. Copy and paste the provided files into the project
+For these files:
+1. Create a new Android Studio project.
+2. Replace the corresponding files with the provided ones.
   
-- Please note that:
-  - Some project files may contain **unrefined or inefficient code**
-  - These materials are intended for **learning and experimentation purposes**
+Some projects may include incomplete, repetitive, or inefficient code, as they were created while learning Android development.
 <br/>
 <br/>
 
 ## 📝 Notes
-This repository reflects coursework and hands-on practice conducted as part of an academic class. The focus is on understanding core concepts of Android application development rather than producing production-level code.
+This repository is an archive of coursework and weekly practice. It is intended to document my learning process and may not follow current Android development best practices.
 <br/>
 <br/>
